@@ -1,0 +1,11 @@
+main.c:70:6:Servot1	16	static
+main.c:81:6:Servot2	16	static
+main.c:98:5:main	8	static
+main.c:202:6:SystemClock_Config	72	static
+main.c:241:13:MX_I2C1_Init	8	static
+main.c:275:13:MX_TIM1_Init	80	static
+main.c:340:13:MX_TIM2_Init	48	static
+main.c:401:13:MX_USART1_UART_Init	8	static
+main.c:434:13:MX_GPIO_Init	24	static
+main.c:446:6:HAL_UART_RxCpltCallback	16	static
+main.c:461:6:Error_Handler	4	static,ignoring_inline_asm
